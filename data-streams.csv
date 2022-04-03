@@ -1,2 +1,8 @@
-outbreak_phase,data_type,data_source,novel,novel_in,economic_cost,human_resources,manual,collected_by,funded_by,impact,refs
-detection,,ProMED,no,NA,not_expensive,subject matter expertise,yes,ProMED,various,high,
+outbreak_phase,data_type,data_source,novel,novel_in,costs,data_collection,data_validation,collected_by,impact,refs,notes
+detection,,ProMED,no,NA,not_expensive,manual,manual, ProMED,high,,
+surveillance,,zoe,yes,conception, expensive,crowdsourced,,public-private-partnership,high,,zoe is a health startup. The app was thus built off of existing technical capabilities
+surveillance,,ons infection survey,yes,scale, expensive,survey,,govt-hei-partnership,high,,
+surveillance,,react1,yes,scale, expensive,survey,,hei,high,,
+surveillance,,react2,yes,scale,expensive,survey,,hei,high,,
+surveillance,,wastewater,yes,scale,cheap,manual,,,,,happening across EU. https://ec.europa.eu/environment/water/water-urbanwaste/info/index_en.htm
+surveillance,,wastewater,yes,scale,cheap,manual,,,,,uk https://www.gov.uk/government/publications/monitoring-of-sars-cov-2-rna-in-england-wastewater-monthly-statistics-1-june-to-20-september-2021/emhp-wastewater-monitoring-of-sars-cov-2-in-england-1-june-to-20-september-2021
