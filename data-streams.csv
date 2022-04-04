@@ -6,3 +6,7 @@ surveillance,,react1,yes,scale, expensive,survey,,hei,high,,
 surveillance,,react2,yes,scale,expensive,survey,,hei,high,,
 surveillance,,wastewater,yes,scale,cheap,manual,,,,,happening across EU. https://ec.europa.eu/environment/water/water-urbanwaste/info/index_en.htm
 surveillance,,wastewater,yes,scale,cheap,manual,,,,,uk https://www.gov.uk/government/publications/monitoring-of-sars-cov-2-rna-in-england-wastewater-monthly-statistics-1-june-to-20-september-2021/emhp-wastewater-monitoring-of-sars-cov-2-in-england-1-june-to-20-september-2021
+interventions,,oxcgrt,yes,scale,,crowdsourced,manual,hei,high,,
+surveillance,,global.health,yes,scale,,,,,high,,
+behavior,,mobility reports,yes,conception,,automated,automated,private orgs,medium,,
+behavior,,comix,no,,,manual,,hei,high,,
